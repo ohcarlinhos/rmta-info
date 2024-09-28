@@ -1,5 +1,5 @@
-# Registra meu tempo aí
-Esse repositório é dedicado ao projeto "Registra meu tempo aí (RMTA)", uma ferramenta de gerenciamento de tempo para estudos e freelancer.
+# Registra meu tempo aí!
+Esse repositório é dedicado ao projeto "Registra meu tempo aí! (RMTA)", uma ferramenta de gerenciamento de tempo para estudos e freelancer.
 
 ## Projetos
 ### RegistraMTA (API)
